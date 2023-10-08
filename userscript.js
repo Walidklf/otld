@@ -6,6 +6,7 @@
 // @author       nediiii
 // @match        *://*.csdn.net/*
 // @match        *://*.gitee.com/*
+// @match        *://*.blsspainglobal.com/*
 // @match        *://*.uisdc.com/*
 // @match        *://*.uiiiuiii.com/*
 // @match        *://*.logonews.cn/*
